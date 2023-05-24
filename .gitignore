@@ -1,1 +1,4 @@
 nohup.out
+*.pt
+output.csv
+output_v2.csv
