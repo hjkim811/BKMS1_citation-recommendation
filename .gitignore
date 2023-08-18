@@ -2,6 +2,8 @@ nohup.out
 *.pyc
 *.pt
 *.npy
+*.csv
+*.json
 output.csv
 output_v2.csv
 .ipynb_checkpoints/
